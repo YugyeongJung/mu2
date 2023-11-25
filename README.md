@@ -1,12 +1,12 @@
 ## Installation
 
-git clone https://github.com/YugyeongJung/machine-unlearning.git
+1. git clone https://github.com/YugyeongJung/machine-unlearning.git
 
-cd machine-unlearning
+2. cd machine-unlearning
 
-npm install
+3. npm install
 
 ## Running
-npm start
+1. npm start
 
-(open a new cmd, move to machine-unlearning), run server.py
+2. (open a new cmd, move to machine-unlearning), run server.py
